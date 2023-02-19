@@ -9,7 +9,8 @@ Framework:
  - Backend : Flask
   
 ---
-![image](https://github.com/caitlinttl/word-cloud/blob/master/example.jpg)
+<!-- ![image](https://github.com/caitlinttl/word-cloud/blob/master/example.jpg) -->
+<img src="https://github.com/caitlinttl/word-cloud/blob/master/example.jpg" width="564" height="400" alt="example" />
 ---
 
 Reference:
