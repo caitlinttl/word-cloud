@@ -6,7 +6,7 @@ Full-stack web design in monorepo.
 
 Framework:
  - Frontend: Vue.js
- - Backend : Flask
+ - Backend : Python Flask
   
 ---
 <!-- ![image](https://github.com/caitlinttl/word-cloud/blob/master/example.jpg) -->
@@ -17,3 +17,5 @@ Framework:
 Reference:
  - https://bbs.huaweicloud.com/blogs/322920
 
+---
+Created by Caitlin, Hsinchu, Taiwan, 2023.

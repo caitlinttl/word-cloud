@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+# Created by Caitlin, Hsinchu, Taiwan, 2023.
+# ----------------------------------------------------------
+
 from flask import render_template
 from flask import request
 from app import app
